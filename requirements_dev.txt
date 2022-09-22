@@ -3,6 +3,8 @@ notebook
 ensure
 py-youtube
 
+-e .
+
 
 # dev requirements
 pytest
